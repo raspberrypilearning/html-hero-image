@@ -12,7 +12,7 @@ filename: index.html
 
 --- /code ---
 
-In `style.css` add a new selector for the `hero-image` class.
+In `style.css`, add a new selector for the `hero-image` class.
 
 Instead of adding an `<img>` element to the HTML, you can use the CSS `background-image` property to add your image. 
 
