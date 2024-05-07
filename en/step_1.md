@@ -1,4 +1,4 @@
-Add new `<div>` element with a class attribute of `hero-image`.
+Add a new `<div>` element with a class attribute of `hero-image`.
 
 --- code ---
 ---
