@@ -1,4 +1,4 @@
-Add a new `<div>` element with a class attribute of `hero-image`.
+Voeg een nieuw `<div>`-element toe met een klasse-kenmerk van `hero-image`.
 
 ## --- code ---
 
@@ -12,13 +12,13 @@ filename: index.html
 
 \--- /code ---
 
-In `style.css`, add a new selector for the `hero-image` class.
+Voeg in `style.css` een nieuwe selector toe voor de `hero-image` klasse.
 
-Instead of adding an `<img>` element to the HTML, you can use the CSS `background-image` property to add your image.
+In plaats van een `<img>` element toe te voegen aan de HTML, kun je ook de CSS `background-image` eigenschap gebruiken om je afbeelding toe te voegen.
 
-Set the height of your `<div>` so that the image has space to fill.
+Stel de hoogte van je `<div>` in zodat voldoende ruimte is voor de afbeelding.
 
-The image should fill the `<div>` element (by setting the `background-size` property to `cover`) and be centered.
+De afbeelding moet het element `<div>` vullen (door de eigenschap `background-size` in te stellen op `cover`) en gecentreerd zijn.
 
 ## --- code ---
 
@@ -26,7 +26,7 @@ language: css
 filename: style.css
 ---------------------------------------------------
 
-/\* Hero image - homepage \*/
+/\* Hero image - startpagina \*/
 .hero-image {
 min-height: 50vh;
 background-image: url('antarctic-northern-lights.jpg');
